@@ -10,7 +10,7 @@ It's mighty as it:
 
 - understands the **latest CSS syntax** including custom properties and level 4 selectors
 - extracts **embedded styles** from HTML, markdown and CSS-in-JS object & template literals
-- parses **CSS-like syntaxes** like SCSS, Sass, Less and SugarSS
+- parses **CSS-like syntaxes** like SCSS, Less and SugarSS
 - has over **170 built-in rules** to catch errors, apply limits and enforce stylistic conventions
 - supports **plugins** so you can create your own rules or make use of plugins written by the community
 - automatically **fixes** the majority of stylistic violations
